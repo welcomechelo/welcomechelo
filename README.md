@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @welcomechelo
 - 👀 I’m interested in building compelling stories using data
-- 🌱 I’m currently learning Statistics & Data Science with Python
+- 🌱 I’m currently learning Statistics & Data Science with Python (at MITx)
 - 💞️ I’m looking to collaborate on EDA projects for starters. I do have a rounded analysis background.
 - 📫 You might reach me at marcelosires@gmail.com
 
